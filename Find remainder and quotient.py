@@ -1,0 +1,5 @@
+a=input()
+b=input()
+q=int(a)//int(b)
+mod=int(a)% int(b)
+print(q,mod)
